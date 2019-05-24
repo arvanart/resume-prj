@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/arvanart/resume-prj/precache-manifest.2a5706ec06a7f80a09ea07f5a8a565d6.js"
+  "/resume-prj/precache-manifest.4230ad4af86691619f474a2545f219c3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/arvanart/resume-prj/index.html", {
+workbox.routing.registerNavigationRoute("/resume-prj/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

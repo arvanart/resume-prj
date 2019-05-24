@@ -1,13 +1,13 @@
 {
-  "main.css": "/arvanart/resume-prj/static/css/main.4edd1ce7.chunk.css",
-  "main.js": "/arvanart/resume-prj/static/js/main.1137d7fa.chunk.js",
-  "main.js.map": "/arvanart/resume-prj/static/js/main.1137d7fa.chunk.js.map",
-  "runtime~main.js": "/arvanart/resume-prj/static/js/runtime~main.47fbeb0a.js",
-  "runtime~main.js.map": "/arvanart/resume-prj/static/js/runtime~main.47fbeb0a.js.map",
-  "static/js/2.1c29d6d4.chunk.js": "/arvanart/resume-prj/static/js/2.1c29d6d4.chunk.js",
-  "static/js/2.1c29d6d4.chunk.js.map": "/arvanart/resume-prj/static/js/2.1c29d6d4.chunk.js.map",
-  "index.html": "/arvanart/resume-prj/index.html",
-  "precache-manifest.2a5706ec06a7f80a09ea07f5a8a565d6.js": "/arvanart/resume-prj/precache-manifest.2a5706ec06a7f80a09ea07f5a8a565d6.js",
-  "service-worker.js": "/arvanart/resume-prj/service-worker.js",
-  "static/css/main.4edd1ce7.chunk.css.map": "/arvanart/resume-prj/static/css/main.4edd1ce7.chunk.css.map"
+  "main.css": "/resume-prj/static/css/main.4edd1ce7.chunk.css",
+  "main.js": "/resume-prj/static/js/main.6fceb54b.chunk.js",
+  "main.js.map": "/resume-prj/static/js/main.6fceb54b.chunk.js.map",
+  "runtime~main.js": "/resume-prj/static/js/runtime~main.7588f6c9.js",
+  "runtime~main.js.map": "/resume-prj/static/js/runtime~main.7588f6c9.js.map",
+  "static/js/2.1c29d6d4.chunk.js": "/resume-prj/static/js/2.1c29d6d4.chunk.js",
+  "static/js/2.1c29d6d4.chunk.js.map": "/resume-prj/static/js/2.1c29d6d4.chunk.js.map",
+  "index.html": "/resume-prj/index.html",
+  "precache-manifest.4230ad4af86691619f474a2545f219c3.js": "/resume-prj/precache-manifest.4230ad4af86691619f474a2545f219c3.js",
+  "service-worker.js": "/resume-prj/service-worker.js",
+  "static/css/main.4edd1ce7.chunk.css.map": "/resume-prj/static/css/main.4edd1ce7.chunk.css.map"
 }
