@@ -22,28 +22,28 @@
                 {
                     "type":"card",
                     "content": {
-                        "image":"../images/design.jpg",
+                        "image":"images/design.jpg",
                         "title":"web design"
                     }
                 },
                 {
                     "type":"card",
                     "content": {
-                        "image":"../images/react.jpg",
+                        "image":"images/react.jpg",
                         "title":"react"
                     }
                 },
                 {
                     "type":"card",
                     "content": {
-                        "image":"../images/html.jpg",
+                        "image":"images/html.jpg",
                         "title":"Html"
                     }
                 },
                 {
                     "type":"card",
                     "content": {
-                        "image":"../images/css.jpg",
+                        "image":"images/css.jpg",
                         "title":"css"
                     }
                 }
