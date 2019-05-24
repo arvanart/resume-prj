@@ -1,0 +1,73 @@
+html,
+body{
+  height: 100%;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+*{
+  margin: 0;
+  transition: all 0.3s ease-in-out;
+}
+.section{position: relative;}
+.navigation{
+  position: fixed;
+  z-index: 2;
+  text-align: right;
+  height: 50px;
+  top: 0;
+  right: 0;
+  left:0;
+  background: rgba(255,255,255,0.25);
+  line-height: 50px;
+  font-size: 1.4rem;
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+  cursor: pointer;
+  color: #3c2f2f
+}
+.nav{
+  float:right;
+}
+.nav a{
+  padding: 12px 20px;
+}
+.nav a:hover{
+  background: rgba(255,255,255,0.7)
+}
+.setting{
+  float: left;
+  padding: 0px 20px;
+  font-size: 1.3rem;
+}
+.setting:hover{
+  background: rgba(255,255,255,0.7)
+}
+.element{
+  height: 0px;
+  background: red
+}
+.icons-wrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.icon{
+  margin: 10px;
+}
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

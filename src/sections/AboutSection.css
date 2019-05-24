@@ -1,0 +1,14 @@
+.second{
+    background-color: #3fb9c4;
+}
+h3{
+    font-size: 3rem;
+    margin-top:-30px
+}
+p{
+    padding: 40px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 750px;
+    font-size: 1.2rem;
+}

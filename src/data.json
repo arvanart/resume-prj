@@ -1,0 +1,57 @@
+{
+    "title":"Hello I'm Arvan!",
+    "subtitle":"Web Designer",
+     "links":{
+         "behance":"https://www.behance.net/arvanartc32d",
+         "instagram":"https://www.instagram.com/arvan.art/"
+     },
+     "sections":[
+         {
+             "title":"ABOUT",
+             "items":[
+                 {
+                     "type":"p",
+                     "content": "The web design process starts with a visual concept, which you could sketch by hand or with software like Photoshop. Then, you use HTML and CSS to build the website. HTML handles the basic structure and 'bones' of your page, while CSS handles the style and appearance. Recently I've started learning React.js"
+                 }
+             ]
+
+         },
+         {
+            "title":"SKILLS",
+            "items":[
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"../images/design.jpg",
+                        "title":"web design"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"../images/react.jpg",
+                        "title":"react"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"../images/html.jpg",
+                        "title":"Html"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"../images/css.jpg",
+                        "title":"css"
+                    }
+                }
+            ]
+
+        }
+     ],
+     "icons":{
+         "down": "images/down.png"
+     }
+}

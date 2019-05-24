@@ -1,0 +1,14 @@
+
+.first{
+    background-color:#00a0af;
+    color: #000;
+}
+h1{
+  font-size: 2.7rem
+}
+h2{
+  padding: 25px
+}
+.first a{
+  margin: 0 5px
+}
